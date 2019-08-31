@@ -3,7 +3,7 @@
 
 #include <vector>
 
-enum class RoomType
+enum class TileType
 {
 	TOWN,
 	WORLD,

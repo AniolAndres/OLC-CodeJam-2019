@@ -1,0 +1,13 @@
+﻿  BaseTile.cpp
+c:\deures mvj\codejam olc\olc-codejam-2019\olccodejam\basetile.cpp(13): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  DungeonTile.cpp
+c:\deures mvj\codejam olc\olc-codejam-2019\olccodejam\dungeontile.cpp(13): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  OLCCodeJam.cpp
+c:\deures mvj\codejam olc\olc-codejam-2019\olccodejam\olccodejam.cpp(14): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  TownTile.cpp
+c:\deures mvj\codejam olc\olc-codejam-2019\olccodejam\towntile.cpp(13): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  World.cpp
+c:\deures mvj\codejam olc\olc-codejam-2019\olccodejam\world.cpp(12): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  WorldTile.cpp
+c:\deures mvj\codejam olc\olc-codejam-2019\olccodejam\worldtile.cpp(13): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Generando código...

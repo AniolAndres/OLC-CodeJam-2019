@@ -1,4 +1,6 @@
-﻿  OLCCodeJam.cpp
-  World.cpp
+﻿  BaseCharacter.cpp
+  Enemy.cpp
+  NPC.cpp
+  Player.cpp
   Generando código...
-  OLCCodeJam.vcxproj -> C:\Deures MVJ\CodeJam OLC\OLCCodeJam\Debug\OLCCodeJam.exe
+  OLCCodeJam.vcxproj -> C:\Deures MVJ\CodeJam OLC\OLC-CodeJam-2019\Debug\OLCCodeJam.exe

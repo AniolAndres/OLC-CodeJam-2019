@@ -153,11 +153,35 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Armor.h" />
+    <ClInclude Include="BaseCharacter.h" />
+    <ClInclude Include="BaseItem.h" />
+    <ClInclude Include="BaseTile.h" />
+    <ClInclude Include="Consumable.h" />
+    <ClInclude Include="DungeonTile.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="NPC.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="TownTile.h" />
+    <ClInclude Include="Weapon.h" />
     <ClInclude Include="World.h" />
+    <ClInclude Include="WorldTile.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Armor.cpp" />
+    <ClCompile Include="BaseCharacter.cpp" />
+    <ClCompile Include="BaseItem.cpp" />
+    <ClCompile Include="BaseTile.cpp" />
+    <ClCompile Include="Consumable.cpp" />
+    <ClCompile Include="DungeonTile.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="NPC.cpp" />
     <ClCompile Include="OLCCodeJam.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="TownTile.cpp" />
+    <ClCompile Include="Weapon.cpp" />
     <ClCompile Include="World.cpp" />
+    <ClCompile Include="WorldTile.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

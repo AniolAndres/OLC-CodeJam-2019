@@ -19,6 +19,12 @@
     <Filter Include="World\tiles">
       <UniqueIdentifier>{034c18e4-9764-4690-af4a-35d0c6eb7571}</UniqueIdentifier>
     </Filter>
+    <Filter Include="World\Individuals">
+      <UniqueIdentifier>{7f8b0178-f95e-4800-9f2d-996dbf58f529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="World\Items">
+      <UniqueIdentifier>{0b87f073-7665-4dc0-80a5-42de574200b2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OLCCodeJam.cpp">
@@ -27,10 +33,82 @@
     <ClCompile Include="World.cpp">
       <Filter>World</Filter>
     </ClCompile>
+    <ClCompile Include="BaseTile.cpp">
+      <Filter>World\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldTile.cpp">
+      <Filter>World\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="TownTile.cpp">
+      <Filter>World\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonTile.cpp">
+      <Filter>World\tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>World\Individuals</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC.cpp">
+      <Filter>World\Individuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>World\Individuals</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseCharacter.cpp">
+      <Filter>World\Individuals</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseItem.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Armor.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Consumable.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="World.h">
       <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseTile.h">
+      <Filter>World\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldTile.h">
+      <Filter>World\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="TownTile.h">
+      <Filter>World\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonTile.h">
+      <Filter>World\tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>World\Individuals</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.h">
+      <Filter>World\Individuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>World\Individuals</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseCharacter.h">
+      <Filter>World\Individuals</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseItem.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Armor.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Consumable.h">
+      <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
